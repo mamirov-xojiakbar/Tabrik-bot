@@ -1,0 +1,16 @@
+{
+  "name": "rasimga-yozib-beradigon-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
